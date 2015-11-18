@@ -1,6 +1,7 @@
 # Timeline
 Timeline is a responsive HTML 5 horizontal element that includes detail modals when hovering over the date. Javascript calculates the necessesary offsets of list item children in an ordered list.
 
+Please see the demo here: http://cwdegidio.github.io/Timeline/
 
 ## How to use
 ### HTML
