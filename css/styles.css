@@ -100,7 +100,7 @@
 }
 
 /* Styles only for Demo Page */
-h1,a {
+h1,p {
 	font-family: Arial, 'Sans-Serif';
 }
 
@@ -108,8 +108,9 @@ h1 {
 	text-align:center;	
 }
 
-a {
-	margin:25px auto;
+p {
+	text-align: center;
+    	padding-top: 50px;
 }
 
 
