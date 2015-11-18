@@ -99,6 +99,14 @@
 	border-top: 0;
 }
 
+/* Styles only for Demo Page */
+h1,a {
+	font-family: Arial, 'Sans-Serif';
+	text-align: center;
+}
+
+
+
 @media screen and (max-width: 920px) {
   .lens-profile-timeline time {
     font-size: .75em;
